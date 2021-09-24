@@ -12,5 +12,5 @@
 
 
 ## study
-https://get-it-withbsj.tistory.com/85
-https://get-it-withbsj.tistory.com/86
+### 신경망 개념 : https://get-it-withbsj.tistory.com/85
+### MNIST  : https://get-it-withbsj.tistory.com/86
